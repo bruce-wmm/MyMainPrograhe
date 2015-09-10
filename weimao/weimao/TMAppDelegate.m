@@ -36,6 +36,14 @@
     [self.window makeKeyAndVisible];
     [self isConnectionAvailable];
     return YES;
+    
+    //这个只是试验用的如果有神马问题的话找站群
+    
+    
+    
+    
+    
+    
 }
 
 - (void)initShare
