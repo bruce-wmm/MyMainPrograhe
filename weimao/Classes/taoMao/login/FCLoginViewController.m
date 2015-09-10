@@ -19,6 +19,11 @@
 -(void)viewWillAppear:(BOOL)animated
 {
     self.navigationController.navigationBarHidden=YES;
+    
+    
+    
+    NSLog(@"jklad");
+    /////能找的到吗
 
 }
 
