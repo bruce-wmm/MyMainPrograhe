@@ -19,8 +19,8 @@
     
     [self initShare];
     UIViewController *rootViewController;
-    //dsaf
-    
+    //dswqe weaf
+    // rweqr qwer qwe rqwe r
     if ([[[NSUserDefaults standardUserDefaults] objectForKey:@"islogin"]isEqualToString:@"islogin"])
     {
         rootViewController = [[FCTabBarController alloc] init];

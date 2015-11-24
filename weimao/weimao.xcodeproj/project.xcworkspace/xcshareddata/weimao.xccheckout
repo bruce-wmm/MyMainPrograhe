@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7A694AE-D388-4089-B277-A74ACBEC2C75</string>
+	<key>IDESourceControlProjectName</key>
+	<string>weimao</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>97DD0661394AB18EE5D7B6E306DF68B6EA53FA73</key>
+		<string>https://github.com/bruce-wmm/MyMainPrograhe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>weimao/weimao.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>97DD0661394AB18EE5D7B6E306DF68B6EA53FA73</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bruce-wmm/MyMainPrograhe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97DD0661394AB18EE5D7B6E306DF68B6EA53FA73</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97DD0661394AB18EE5D7B6E306DF68B6EA53FA73</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyMainPrograhe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
